@@ -5,8 +5,8 @@ var router = require('./config/router.js')
 var app = express();
 
 app.use(morgan('dev'));
-app.use('/', router);
-
+app.use(express.static(__dirname + '/../client'))
+app.use('/#', router);
 
 var port = process.env.PORT || 6969;
 
