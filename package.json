@@ -1,0 +1,23 @@
+{
+  "name": "thelocals",
+  "version": "0.0.1",
+  "description": "An app that sniffs packets to identify social media aliases for those around us",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianKnodt/theLocals.git"
+  },
+  "author": "Julian Knodt",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JulianKnodt/theLocals/issues"
+  },
+  "homepage": "https://github.com/JulianKnodt/theLocals#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
