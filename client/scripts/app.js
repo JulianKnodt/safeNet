@@ -4,9 +4,15 @@ angular.module('app', [
   ])
 .config(function($stateProvider){
   $stateProvider
-  .state('/listening', {
-    templateUrl: '/home/home.html',
+  .state('/home', {
+    url:'/home',
+    templateUrl: 'scripts/home/home.html',
     controller: 'homeController'
+  })
+  .state('/listen', {
+    url: '/listen',
+    templateUrl: 'scripts/listen/listen.html',
+    controller: 'listenController'
   });
 })
 .run(function($location){

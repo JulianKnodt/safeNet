@@ -1,5 +1,5 @@
 {
-  "name": "thelocals",
+  "name": "locals",
   "version": "0.0.1",
   "description": "An app that sniffs packets to identify social media aliases for those around us",
   "main": "index.js",
@@ -19,6 +19,9 @@
   "homepage": "https://github.com/JulianKnodt/theLocals#readme",
   "dependencies": {
     "express": "^4.14.0",
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-shell": "^1.3.1",
     "morgan": "^1.7.0",
     "nodemon": "^1.10.2",
     "router": "^1.1.4"
