@@ -1,6 +1,7 @@
 var express = require('express');
 var morgan = require('morgan');
-var router = require('./config/router.js')
+var router = require('./config/router.js');
+var packetReader = require('./controllers/packetReader.js');
 
 var app = express();
 

@@ -4,7 +4,7 @@
   "description": "An app that sniffs packets to identify social media aliases for those around us",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/app.js",
+    "start": "echo \"Starting to listen on root\" && sudo nodemon server/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
