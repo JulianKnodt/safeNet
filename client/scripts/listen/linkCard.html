@@ -1,14 +1,14 @@
 <div class="col m4">
   <div class='card {{color(packet.verified)}}'>
     <div class='card-content white-text'>
-      <span class='card-title activator'>{{packet.domain}}</span>
+      <span class='card-title activator'>{{$index + " " +  packet.domain}}</span>
           <div class='card-action'>
           <a ng-click='mark(packet)'>Verify</a>
           </div>
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">x</i></span>
-        <blockquote><pre>{{packet.packet}}</pre></blockquote>
+        <blockquote><pre>From: {{packet.src}}<br>To: {{packet.dest}}<br>Verified Status: {{packet.verified}}</pre></blockquote>
     </div>
   </div>
 </div>

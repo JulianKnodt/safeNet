@@ -6,6 +6,8 @@ router.get('/data', fileReader.data.get);
 
 router.delete('/data', fileReader.data.delete);
 
-// router.post('/data');
+router.post('/data', fileReader.data.post);
+
+router.post('/url', fileReader.url.post)
 
 module.exports = router;

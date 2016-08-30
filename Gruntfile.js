@@ -10,6 +10,9 @@ grunt.initConfig({
         databaseUp: {
           command: 'mongod --dbpath=database'
         },
+        installHTTPcap: {
+          command: 'echo "might require sudo" && brew install pip && pip install httpcap'
+        }
     }
 });
 
