@@ -11,11 +11,15 @@ angular.module('listen', [])
         method:'GET'
       })
       .success(function(data){
+        data.forEach(function(entry){
+          entry.timestamp = new Date(entry.timestamp).toLocaleDateString() + " " + new Date(entry.timestamp).toLocaleTimeString();
+        });
         $scope.packets = data;
       });
     });
   }
   $scope.clearPackets = function(){
+    console.log('this shouldnt be running');
     $http({
       url:'/data',
       method: 'DELETE'
@@ -40,6 +44,7 @@ angular.module('listen', [])
     }
     return 'gray';
   }
+  $scope.collectPackets();
 })
 .directive('link', function(){
   var directive = {};

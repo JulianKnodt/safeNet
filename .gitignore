@@ -6,3 +6,4 @@
 *.turtle
 *.bson*
 /database
+config.js

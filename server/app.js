@@ -3,6 +3,7 @@ var morgan = require('morgan');
 var router = require('./config/router.js');
 var bodyParser = require('body-parser');
 var packetReader = require('./controllers/packetReader.js');
+var worker = require('./worker/worker.js');
 
 var app = express();
 
@@ -13,6 +14,7 @@ app.use('/', router);
 
 var port = process.env.PORT || 6969;
 
+worker();
 
 
 app.listen(port);

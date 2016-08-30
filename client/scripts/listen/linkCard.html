@@ -1,4 +1,4 @@
-<div class="col m4">
+<div class="col m4" ng-hide='{{$index > 50}}'>
   <div class='card {{color(packet.verified)}}'>
     <div class='card-content white-text'>
       <span class='card-title activator'>{{$index + " " +  packet.domain}}</span>
@@ -8,7 +8,7 @@
     </div>
     <div class="card-reveal">
       <span class="card-title grey-text text-darken-4"><i class="material-icons right">x</i></span>
-        <blockquote><pre>From: {{packet.src}}<br>To: {{packet.dest}}<br>Verified Status: {{packet.verified}}</pre></blockquote>
+        <blockquote><pre>From: {{packet.src}}<br>To: {{packet.dest}}<br>Verified Status: {{packet.verified}}<br>On: {{packet.timestamp}}</pre></blockquote>
     </div>
   </div>
 </div>

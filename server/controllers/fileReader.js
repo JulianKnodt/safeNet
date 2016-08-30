@@ -28,6 +28,7 @@ module.exports = {
     },
     delete: function(req, res){
       deleteCache(function(){
+        db.Link.find({}).remove({}).exec();
         res.send('');
       });
     },
