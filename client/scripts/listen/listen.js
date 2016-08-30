@@ -22,12 +22,12 @@ angular.module('listen', [])
       console.log(err);
     });
   }
-  var clearPackets = function(){
+  $scope.clearPackets = function(){
     $http({
       url:'/data',
       method: 'DELETE'
     });
   }
-  collectCalls();
+  collectPackets();
   setInterval(collectPackets, 1000);
 });

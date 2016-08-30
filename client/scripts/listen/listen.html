@@ -1,6 +1,9 @@
 <div ng-app='listen'>
   <div ng-controller='listenController'>
+  <header>
   <a class="waves-effect waves-light btn" ui-sref='/home'>Home</a>
-  <p ng-repeat='packet in packets track by $index'>{{packet}}</p>
+  </header>
+  <a class="waves-effect waves-light btn" ng-click='clearPackets()'>Delete Log</a>
+  <p ng-repeat='packet in packets track by $index' ng-click=''>{{packet}}</p>
   </div>
 </div>

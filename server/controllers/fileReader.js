@@ -6,6 +6,12 @@ module.exports = {
       fs.readFile('././././savedData/data.txt', function(err, data){
         res.send(data);
       });
+    },
+    delete: function(req, res){
+      fs.writeFile('././././savedData/data.txt', '', function(){
+        console.log('deleted');
+        res.send(''); 
+      });
     }
   }
 }
