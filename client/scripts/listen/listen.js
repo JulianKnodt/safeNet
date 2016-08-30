@@ -16,7 +16,9 @@ angular.module('listen', [])
       method:'GET'
     }).success(function(data){
       $scope.packets = data.split('\n\n').map(function(packetInfo){
-        return filterPacket(packetInfo);
+        return {
+          packet: filterPacket(packetInfo), 
+          verified: 0};
       });
     }).error(function(err){
       console.log(err);
@@ -28,6 +30,26 @@ angular.module('listen', [])
       method: 'DELETE'
     });
   }
+  $scope.mark = function(obj){
+    console.log(obj);
+  }
   collectPackets();
   setInterval(collectPackets, 1000);
+
+  $scope.color = function(verified){
+    console.log('ran?');
+    if(verified === 0){
+      return 'yellow';
+    } else if(verified === 1){
+      return 'green';
+    } else if(verified === -1){
+      return 'red';
+    }
+    return 'blue';
+  }
+})
+.directive('link', function(){
+  var directive = {};
+  directive.templateUrl = 'scripts/listen/linkCard.html';
+  return directive;
 });

@@ -4,6 +4,8 @@
   <a class="waves-effect waves-light btn" ui-sref='/home'>Home</a>
   </header>
   <a class="waves-effect waves-light btn" ng-click='clearPackets()'>Delete Log</a>
-  <p ng-repeat='packet in packets track by $index' ng-click=''>{{packet}}</p>
+  <div class ='row'>
+  <div link ng-repeat='packet in packets track by $index'></div>
+  </div>
   </div>
 </div>
