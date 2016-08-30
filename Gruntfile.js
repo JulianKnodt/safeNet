@@ -7,7 +7,9 @@ grunt.initConfig({
         listen: {
             command: 'sudo parse-live -o ./savedData/data.txt'
         },
-
+        databaseUp: {
+          command: 'mongod --dbpath=database'
+        },
     }
 });
 
