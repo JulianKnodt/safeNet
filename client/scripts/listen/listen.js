@@ -3,7 +3,7 @@ angular.module('listen', [])
   var filterPacket = function(decodedPacket){
     var parseData = decodedPacket.split('\n');
     if(parseData[1] === undefined){
-      return '';
+      return;
     }
     parseData
     var domain = parseData[1].slice(parseData[1].indexOf('http'), parseData[1].indexOf('.com'));
@@ -31,13 +31,16 @@ angular.module('listen', [])
     });
   }
   $scope.mark = function(obj){
-    console.log(obj);
+    $http({
+      url:'/data',
+      method: 'POST',
+      data: obj
+    })
   }
   collectPackets();
   setInterval(collectPackets, 1000);
 
   $scope.color = function(verified){
-    console.log('ran?');
     if(verified === 0){
       return 'yellow';
     } else if(verified === 1){

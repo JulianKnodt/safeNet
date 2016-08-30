@@ -3,11 +3,11 @@
     <div class='card-content white-text'>
       <span class='card-title activator'>Transaction {{$index}}</span>
           <div class='card-action'>
-          <a ng-click='mark(this)'>Mark Malicious</a>
+          <a ng-click='mark(packet)'>Verify</a>
           </div>
     </div>
     <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4"><i class="material-icons right">close</i></span>
+      <span class="card-title grey-text text-darken-4"><i class="material-icons right">x</i></span>
         <blockquote><pre>{{packet.packet}}</pre></blockquote>
     </div>
   </div>
