@@ -1,5 +1,6 @@
 angular.module('app', [
   'home',
+  'listen',
   'ui.router'
   ])
 .config(function($stateProvider){
@@ -12,7 +13,7 @@ angular.module('app', [
   .state('/listen', {
     url: '/listen',
     templateUrl: 'scripts/listen/listen.html',
-    controller: 'listenController'
+    controller: 'listenController',
   });
 })
 .run(function($location){

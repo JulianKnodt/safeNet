@@ -5,7 +5,7 @@ grunt.loadNpmTasks('grunt-shell');
 grunt.initConfig({
     shell: {
         listen: {
-            command: 'sudo parse-live -o ./savedData/data'
+            command: 'sudo parse-live -o ./savedData/data.txt'
         },
 
     }

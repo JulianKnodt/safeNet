@@ -1,6 +1,9 @@
 //Intercepting packets
 var pcap = require('pcap2');
-var session = pcap.createSession('', "tcp");
+var session = new pcap.Session('en0', '');
+var http = require('http');
+// var grunt = require('../../Gruntfile.js');
+
 var tcpTracker = new pcap.TCPTracker();
 console.log('listening on', session.device_name);
 
@@ -15,5 +18,11 @@ tcpTracker.on('session', function(session){
     console.log('end of session from', session.src);
   });
 });
+
+// tcpTracker.on('http request', function(session, http){
+
+//   console.log(http);
+// });
+
 
 module.exports = session;

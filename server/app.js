@@ -7,7 +7,7 @@ var app = express();
 
 app.use(morgan('dev'));
 app.use(express.static(__dirname + '/../client'))
-app.use('/#', router);
+app.use('/', router);
 
 var port = process.env.PORT || 6969;
 

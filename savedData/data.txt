@@ -1,0 +1,876 @@
+[10.6.25.184:63656] -- -- --> [184.28.38.239:80] 
+GET http://www.apple.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63656] -- -- --> [184.28.38.239:80] 
+GET http://www.apple.com/metrics/ac-analytics/1.1/scripts/ac-analytics.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63673] -- -- --> [66.235.139.18:80] 
+GET http://metrics.apple.com/b/ss/appleglobal,applehome,applestoreww,applestoreamr,applestoreus/1/H.27/s36991678329356?AQB=1&ndh=1&t=29%2F7%2F2016%2016%3A39%3A41%201%20420&fid=75AC024E5646A503-10CF75845D6CEA34&pageName=apple%20-%20index%2Ftab%20%28us%29&g=http%3A%2F%2Fwww.apple.com%2F&cc=USD&ch=www.us.homepage&server=new%20approach%20ac-analytics&v3=aos%3A%20us&c4=D%3Dg&c5=macintel&c9=10.11.x&c19=aos%3A%20us%3A%20apple%20-%20index%2Ftab%20%28us%29&c20=aos%3A%20us&c25=direct%20entry&c48=7&c49=D%3D2BD9AD3585011B01-600001310011CFB7&v54=http%3A%2F%2Fwww.apple.com%2F&h1=www.us.homepage&s=1440x900&c=24&j=1.6&v=N&k=Y&bw=1440&bh=826&p=Widevine%20Content%20Decryption%20Module%3BChrome%20PDF%20Viewer%3BShockwave%20Flash%3BNative%20Client%3B&AQE=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63789] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63791] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/js/ie-emulation-modes-warning.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63789] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/dist/css/bootstrap.min.css
+HTTP/1.1 200 OK
+
+[10.6.25.184:63794] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/components.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63793] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/devices.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63790] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/css/docs.min.css
+HTTP/1.1 200 OK
+
+[10.6.25.184:63792] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/sass-less.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63789] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/dist/js/bootstrap.min.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63789] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/js/ie10-viewport-bug-workaround.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63793] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/expo-lyft.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63794] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/expo-riot.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63791] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/js/docs.min.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63790] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/expo-newsweek.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63795] -- -- --> [54.235.250.7:80] 
+GET http://secure.gaug.es/track.gif?h[site_id]=4f0dc9fef5a1f55508000013&h[resource]=http%3A%2F%2Fgetbootstrap.com%2F&h[referrer]=https%3A%2F%2Fwww.google.com%2F&h[title]=Bootstrap%20%C2%B7%20The%20world%27s%20most%20popular%20mobile-first%20and%20responsive%20front-end%20framework.&h[user_agent]=Mozilla%2F5.0%20(Macintosh%3B%20Intel%20Mac%20OS%20X%2010_11_4)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F52.0.2743.116%20Safari%2F537.36&h[unique]=0&h[unique_hour]=1&h[unique_day]=1&h[unique_month]=0&h[unique_year]=0&h[screenx]=1440&h[browserx]=1440&h[browsery]=826&timestamp=1472514340363
+HTTP/1.1 200 OK
+
+[10.6.25.184:63792] -- -- --> [104.27.144.213:80] 
+GET http://getbootstrap.com/assets/img/expo-vogue.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63802] -- -- --> [94.31.29.209:80] 
+GET http://cdn.carbonads.com/carbon.js?zoneid=1673&serve=C6AILKT&placement=materializecss
+HTTP/1.1 200 OK
+
+[10.6.25.184:63797] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/css/prism.css
+HTTP/1.1 200 OK
+
+[10.6.25.184:63800] -- -- --> [74.125.28.95:80] 
+GET http://fonts.googleapis.com/css?family=Inconsolata
+HTTP/1.1 200 OK
+
+[10.6.25.184:63801] -- -- --> [74.125.28.95:80] 
+GET http://fonts.googleapis.com/icon?family=Material+Icons
+HTTP/1.1 200 OK
+
+[10.6.25.184:63797] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/responsive.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63799] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/css/ghpages-materialize.css
+HTTP/1.1 200 OK
+
+[10.6.25.184:63805] -- -- --> [184.87.69.159:80] 
+GET http://cdn.transifex.com/live.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63804] -- -- --> [216.58.194.195:80] 
+GET http://fonts.gstatic.com/s/materialicons/v17/2fcrYFNaTjcS6g4U3t-Y5UEw0lE80llgEseQY3FEmqw.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/res/materialize.svg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63799] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/fonts/roboto/Roboto-Light.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63803] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/fonts/roboto/Roboto-Regular.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63797] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/fonts/roboto/Roboto-Bold.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63807] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/fonts/roboto/Roboto-Medium.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63809] -- -- --> [23.111.8.198:80] 
+GET http://assets.servedby-buysellads.com/p/manage/asset/id/29773
+HTTP/1.1 200 OK
+
+[10.6.25.184:63798] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63807] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/js/prism.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63798] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/js/jquery.timeago.min.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63803] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/jade/search.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63797] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/jade/lunr.min.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/js/init.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63813] -- -- --> [104.27.136.111:80] 
+GET http://ghbtns.com/github-btn.html?user=dogfalo&repo=materialize&type=watch&count=true&size=large
+HTTP/1.1 200 OK
+
+[10.6.25.184:63799] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/bin/materialize.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63815] -- -- --> [199.96.57.6:80] 
+GET http://platform.twitter.com/widgets.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63805] -- -- --> [184.87.69.159:80] 
+GET http://cdn.transifex.com/a0b49b34b93844c38eaee15690d86413/latest/settings.all.jsonp
+HTTP/1.1 200 OK
+
+[10.6.25.184:63805] -- -- --> [184.87.69.159:80] 
+GET http://cdn.transifex.com/a0b49b34b93844c38eaee15690d86413/latest/languages.jsonp
+HTTP/1.1 200 OK
+
+[10.6.25.184:63799] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/getting-started.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63804] -- -- --> [216.58.194.195:80] 
+GET http://fonts.gstatic.com/s/inconsolata/v12/BjAYBlHtW3CJxDcjzrnZCIgp9Q8gbYrhqGlRav_IXfk.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63799] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/starter-template.gif
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/parallax-template.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63809] -- -- --> [23.111.8.198:80] 
+GET http://assets.servedby-buysellads.com/p/manage/asset/id/31864
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/color.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/favicon/favicon-32x32.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/grid.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/fonts/roboto/Roboto-Thin.woff2
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63835] -- -- --> [23.111.8.198:80] 
+GET http://assets.servedby-buysellads.com/p/manage/asset/id/31777
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63806] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/donate.png
+HTTP/1.1 200 OK
+
+[10.6.25.184:63829] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63848] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/badges.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63850] -- -- --> [199.96.57.6:80] 
+GET http://platform.twitter.com/widgets.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63848] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/buttons.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63808] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63853] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63859] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/collections.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63859] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/images/yuna.jpg
+HTTP/1.1 200 OK
+
+[10.6.25.184:63861] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63863] -- -- --> [23.111.8.198:80] 
+GET http://assets.servedby-buysellads.com/p/manage/asset/id/31776
+HTTP/1.1 200 OK
+
+[10.6.25.184:63859] -- -- --> [192.30.252.154:80] 
+GET http://materializecss.com/footer.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:63861] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63861] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63865] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:63861] -- -- --> [104.20.52.182:80] 
+GET http://srv.carbonads.net/ads/C6AILKT.json?segment=placement:materializecss&callback=_carbonads_go
+HTTP/1.1 200 OK
+
+[10.6.25.184:63865] -- -- --> [162.13.209.254:80] 
+POST http://clsrv.transifex.com/
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:62526] -- -- --> [54.187.3.75:80] 
+POST http://bookstrap.hackreactor.com/_keepalive
+HTTP/1.1 200 OK
+
+[10.6.25.184:63913] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/jsref/jsref_obj_string.asp
+HTTP/1.1 200 OK
+
+[10.6.25.184:63913] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/lib/w3.css
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63912] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/stdtheme.css
+HTTP/1.1 200 OK
+
+[10.6.25.184:63912] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/colorpicker.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63913] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/lib/w3schools_footer.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63913] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/w3schoolscom_gray.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63912] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/lib/fonts/fontawesome.woff?14663396
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63917] -- -- --> [216.58.194.162:80] 
+GET http://www.googletagservices.com/tag/js/gpt.js
+HTTP/1.1 200 OK
+
+[10.6.25.184:63916] -- -- --> [74.125.25.102:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:63904] -- -- --> [216.58.195.238:80] 
+GET http://cse.google.com/adsense/search/async-ads.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63902] -- -- --> [216.58.194.174:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:63925] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/jsref/jsref_slice_string.asp
+HTTP/1.1 200 OK
+
+[10.6.25.184:63925] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/browserref.css
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63925] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/up.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63916] -- -- --> [74.125.25.102:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:63925] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/tryitimg.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63926] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/compatible_firefox.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63925] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/compatible_chrome.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63929] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/compatible_edge.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63928] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/compatible_safari.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63927] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/images/compatible_opera.gif
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:63902] -- -- --> [216.58.194.174:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:63927] -- -- --> [72.21.91.8:80] 
+GET http://www.w3schools.com/jsref/jsref_split.asp
+HTTP/1.1 200 OK
+
+[10.6.25.184:63916] -- -- --> [74.125.25.102:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:63902] -- -- --> [216.58.194.174:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64126] -- -- --> [151.101.65.69:80] 
+GET http://stackoverflow.com/questions/27745/getting-parts-of-a-url-regex
+HTTP/1.1 200 OK
+
+[10.6.25.184:64139] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=76542103;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515069486;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F27745%2Fgetting-parts-of-a-url-regex;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.Getting%20parts%20of%20a%20URL%20(Regex)%2Cdescription.Given%20the%20URL%20(single%20line)%3A%0Ahttp%3A%2F%2Ftest%252Eexample%252Ecom%2Fdir%2Fsubdir%2Ffile%252Ehtml%0A%0AHow%20c%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F27745%2Fgetting-parts-of-a-url-regex
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515069527&ns_c=UTF-8&cv=3.1&c8=language%20agnostic%20-%20Getting%20parts%20of%20a%20URL%20(Regex)%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F27745%2Fgetting-parts-of-a-url-regex&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64126] -- -- --> [151.101.65.69:80] 
+GET http://stackoverflow.com/posts/27745/ivc/4d04?_=1472515069599
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64142] -- -- --> [151.101.65.69:80] 
+POST http://stackoverflow.com/gps/event
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64143] -- -- --> [174.129.218.146:80] 
+GET http://engine.adzerk.net/ados?t=1472515069672&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk317165732%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk314657175%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk264420287%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22regex%2Clanguage-agnostic%2Curl%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com%2F%22,%22IsAsync%22:true}
+HTTP/1.1 200 OK
+
+[10.6.25.184:64145] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/p.js?zones=1%3Dhireme&tags=regex%3Blanguage-agnostic%3Burl&host=stackoverflow.com&lw=1284&bw=1440&az=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:64145] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/soi.gif?an=Y2NicHP64pFx4bIHAwiwMjL8a2BmZWJgZGBnBPI5QIIsCvHMDIGZoVLdM17bs4IlGbmABAtIBYsmkOBnBxI9wcwMWi3uh7LWvLFnQVMFVhCbxszAUZvSsfDJWxRj1EDGgFWBrLufwszgsFtjzcrsp5iWgYzhB7GUdMCuYmAPANvLCKRBxjNyRIENYGC0YXj_4-7lv9azr17XBAA&at=0&pt=243
+HTTP/1.1 200 OK
+
+[10.6.25.184:64247] -- -- --> [151.101.65.69:80] 
+GET http://superuser.com/questions/623168/regex-to-parse-urls-from-text
+HTTP/1.1 200 OK
+
+[10.6.25.184:64249] -- -- --> [151.101.193.69:80] 
+GET http://cdn.sstatic.net/Sites/superuser/all.css?v=893f6e563d9a
+HTTP/1.1 200 OK
+
+[10.6.25.184:64249] -- -- --> [151.101.193.69:80] 
+GET http://cdn.sstatic.net/Sites/superuser/img/sprites.svg?v=6f5b3bbd35ac
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515342381&ns_c=UTF-8&cv=3.1&c8=Regex%20to%20parse%20URLs%20from%20text%20-%20Super%20User&c7=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64252] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=1152361810;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-753737332-1471644291618;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515342349;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fsuperuser%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3De869e4459439%2Ctitle.Regex%20to%20parse%20URLs%20from%20text%2Cdescription.I%20have%20this%20regex%3A%0A%0A%0A%20%20%5Ba-z%5D%2B%5B%3A%252E%5D%252E*%3F%5Cs%0A%0A%0AI%20run%20it%20on%20the%20following%20text%3A%0A%0Aregexb%2Curl.http%3A%2F%2Fsuperuser%252Ecom%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text
+HTTP/1.1 200 OK
+
+[10.6.25.184:64247] -- -- --> [151.101.65.69:80] 
+GET http://superuser.com/posts/623168/ivc/4c44?_=1472515342434
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64264] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/questions/161738/what-is-the-best-regular-expression-to-check-if-a-string-is-a-valid-url
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515389718&ns_c=UTF-8&cv=3.1&c8=regex%20-%20What%20is%20the%20best%20regular%20expression%20to%20check%20if%20a%20string%20is%20a%20valid%20URL%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F161738%2Fwhat-is-the-best-regular-expression-to-check-if-a-string-is-a-valid-url&c9=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64276] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=850531802;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515389710;tzo=420;ref=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F161738%2Fwhat-is-the-best-regular-expression-to-check-if-a-string-is-a-valid-url;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.What%20is%20the%20best%20regular%20expression%20to%20check%20if%20a%20string%20is%20a%20valid%20URL%3F%2Cdescription.How%20can%20I%20check%20if%20a%20given%20string%20is%20a%20valid%20URL%20address%3F%0A%0AMy%20knowledge%20of%20regul%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F161738%2Fwhat-is-the-best-regular-expression-to
+HTTP/1.1 200 OK
+
+[10.6.25.184:64264] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/posts/161738/ivc/4c44?_=1472515389890
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64277] -- -- --> [151.101.193.69:80] 
+POST http://stackoverflow.com/gps/event
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64278] -- -- --> [54.225.152.222:80] 
+GET http://engine.adzerk.net/ados?t=1472515390021&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk722225706%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk80179634%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1289427355%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22regex%2Curl%22,%22Referrer%22:%22http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text%22,%22IsAsync%22:true}
+HTTP/1.1 200 OK
+
+[10.6.25.184:64280] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/p.js?zones=2%3Dhireme&tags=regex%3Burl&host=stackoverflow.com&lw=1579&bw=1440&az=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:64280] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/soi.gif?an=Y2Ni2DmFgSPzwmUPBhBgZWRYvpKZlYmBiYGdEcjnAAky8aczMzAY1Sy_fOyNPStYkpGLgZGBBaSChRVI8IPU_fzAyCCuo53Lb_4MUxXIHH6QUiEdsHGMHAFgDQysNgzn9XJ_zcoWFvA1AAA&at=0&pt=232
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515404245&ns_c=UTF-8&cv=3.1&c8=Regex%20to%20parse%20URLs%20from%20text%20-%20Super%20User&c7=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64288] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=1460401882;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-753737332-1471644291618;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515404239;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fsuperuser.com%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fsuperuser%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3De869e4459439%2Ctitle.Regex%20to%20parse%20URLs%20from%20text%2Cdescription.I%20have%20this%20regex%3A%0A%0A%0A%20%20%5Ba-z%5D%2B%5B%3A%252E%5D%252E*%3F%5Cs%0A%0A%0AI%20run%20it%20on%20the%20following%20text%3A%0A%0Aregexb%2Curl.http%3A%2F%2Fsuperuser%252Ecom%2Fquestions%2F623168%2Fregex-to-parse-urls-from-text
+HTTP/1.1 200 OK
+
+[10.6.25.184:64247] -- -- --> [151.101.65.69:80] 
+GET http://superuser.com/posts/623168/ivc/4c44?_=1472515404283
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64277] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/questions/25703360/regular-expression-extract-subdomain-domain
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515412959&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20Regular%20Expression%20-%20Extract%20subdomain%20%26%20domain%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F25703360%2Fregular-expression-extract-subdomain-domain&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64286] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=2117241365;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515412954;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F25703360%2Fregular-expression-extract-subdomain-domain;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.Regular%20Expression%20-%20Extract%20subdomain%20%26%20domain%2Cdescription.I'm%20trying%20to%20form%20a%20regular%20expression%20(javascript%2Fnode%252Ejs)%20which%20will%20extract%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F25703360%2Fregular-expression-extract-subdomain
+HTTP/1.1 200 OK
+
+[10.6.25.184:64277] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/posts/25703360/ivc/4c44?_=1472515413046
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64264] -- -- --> [151.101.193.69:80] 
+POST http://stackoverflow.com/gps/event
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64278] -- -- --> [54.225.152.222:80] 
+GET http://engine.adzerk.net/ados?t=1472515412948&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk922861528%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk2020004544%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk749648384%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cregex%2Curl%2Csubdomain%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com%2F%22,%22IsAsync%22:true}
+HTTP/1.1 200 OK
+
+[10.6.25.184:64310] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/p.js?zones=2%3Dhireme&tags=javascript%3Bregex%3Burl%3Bsubdomain&host=stackoverflow.com&lw=1157&bw=1440&az=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:64332] -- -- --> [151.101.65.69:80] 
+GET http://stackexchange.com/ads/beta-question/js?id=beta-ad-container
+HTTP/1.1 200 OK
+
+[10.6.25.184:64310] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/soi.gif?an=Y2NikOLqEs28cNmDAQRYGRkmqzKzMjEwMbAzAvkcIEEm_nRmhv7pJ_oTjr2xZwVLMnIxMDKwgFSwsAIJfpA6mURmhgdicXZf415gquIGqWIDEkI6YOMYOQLAGhjY3BgW8CxNfZloqpp0GgA&at=0&pt=129
+HTTP/1.1 200 OK
+
+[10.6.25.184:64360] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=2117241365;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515412954;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F25703360%2Fregular-expression-extract-subdomain-domain;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.Regular%20Expression%20-%20Extract%20subdomain%20%26%20domain%2Cdescription.I'm%20trying%20to%20form%20a%20regular%20expression%20(javascript%2Fnode%252Ejs)%20which%20will%20extract%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F25703360%2Fregular-expression-extract-subdomain
+HTTP/1.1 200 OK
+
+[10.6.25.184:64359] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/favicon.ico
+HTTP/1.1 404 Not Found
+
+[10.6.25.184:64382] -- -- --> [216.58.195.238:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:64383] -- -- --> [216.58.194.194:80] 
+GET http://www.googletagservices.com/tag/js/gpt.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:64386] -- -- --> [216.58.195.238:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64393] -- -- --> [72.21.91.29:80] 
+GET http://ocsp.digicert.com/MFYwVKADAgEAME0wSzBJMAkGBSsOAwIaBQAEFEn0vYoYv3YGmMXeQC1oO3Fq5OaGBBQ901Cl1qCt7vNKYApl0yHU%2BPjWDwIQDR5VlAsYUMo%2B%2Bg1i8DLn9g%3D%3D
+HTTP/1.1 200 OK
+
+[10.6.25.184:64264] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/questions/3809401/what-is-a-good-regular-expression-to-match-a-url
+HTTP/1.1 200 OK
+
+[10.6.25.184:64141] -- -- --> [184.25.56.50:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472515622215&ns_c=UTF-8&cv=3.1&c8=javascript%20-%20What%20is%20a%20good%20regular%20expression%20to%20match%20a%20URL%3F%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3809401%2Fwhat-is-a-good-regular-expression-to-match-a-url&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64425] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=1848640792;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472515622207;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3809401%2Fwhat-is-a-good-regular-expression-to-match-a-url;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.What%20is%20a%20good%20regular%20expression%20to%20match%20a%20URL%3F%2Cdescription.Currently%20I%20have%20an%20input%20box%20which%20will%20detect%20the%20URL%20and%20parse%20the%20data%252E%0A%0ASo%20%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F3809401%2Fwhat-is-a-good-regular-expression-to-
+HTTP/1.1 200 OK
+
+[10.6.25.184:64264] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/posts/3809401/ivc/4c44?_=1472515622392
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64277] -- -- --> [151.101.193.69:80] 
+POST http://stackoverflow.com/gps/event
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64424] -- -- --> [54.235.146.142:80] 
+GET http://engine.adzerk.net/ados?t=1472515622064&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk686547472%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk300822558%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1904709585%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22javascript%2Cregex%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com%2F%22,%22IsAsync%22:true}
+HTTP/1.1 200 OK
+
+[10.6.25.184:64427] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/p.js?zones=2%3Dhireme&tags=javascript%3Bregex&host=stackoverflow.com&lw=1710&bw=1440&az=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:64427] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/soi.gif?an=Y2NiSLMqmpR54bIHAwiwMjKc-cwMJJkY2BmBfA6QIBN_OjND__QT_QnH3tizgiUZuRgYGVhAKlhYgQQ_SN3DDGYGhapC8VnRz-yZ0VQJ6YANYeQIACtjZLBhkJrgyJV7Pjl-_VwA&at=0&pt=278
+HTTP/1.1 200 OK
+
+[10.6.25.184:64436] -- -- --> [216.58.195.227:80] 
+GET http://www.gstatic.com/chrome/crlset/3216/crl-set-delta-3215-9852449257430526936.crx.data
+HTTP/1.1 200 OK
+
+[10.6.25.184:64382] -- -- --> [216.58.195.238:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:64386] -- -- --> [216.58.195.238:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64772] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/questions/10306690/domain-name-validation-with-regex
+HTTP/1.1 200 OK
+
+[10.6.25.184:64789] -- -- --> [70.42.160.13:80] 
+GET http://pixel.quantserve.com/pixel;r=352191338;a=p-c1rF4kxgLUzNc;fpan=0;fpa=P0-1281230193-1469514344183;ns=0;ce=1;cm=;je=0;sr=1440x900x24;enc=n;dst=1;et=1472516397085;tzo=420;ref=https%3A%2F%2Fwww.google.com%2F;url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10306690%2Fdomain-name-validation-with-regex;ogl=type.website%2Cimage.http%3A%2F%2Fcdn%252Esstatic%252Enet%2FSites%2Fstackoverflow%2Fimg%2Fapple-touch-icon%402%252Epng%3Fv%3D73d79a89%2Ctitle.Domain%20name%20validation%20with%20RegEx%2Cdescription.Firstly%20sorry%20for%20the%2010%252C000th%20RegEx%20question%252C%0A%0AI%20realise%20there%20are%20other%20domain%2Curl.http%3A%2F%2Fstackoverflow%252Ecom%2Fquestions%2F10306690%2Fdomain-name-validation-with-regex
+HTTP/1.1 200 OK
+
+[10.6.25.184:64790] -- -- --> [104.80.89.32:80] 
+GET http://b.scorecardresearch.com/b?c1=2&c2=17440561&ns__t=1472516397096&ns_c=UTF-8&cv=3.1&c8=Domain%20name%20validation%20with%20RegEx%20-%20Stack%20Overflow&c7=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F10306690%2Fdomain-name-validation-with-regex&c9=https%3A%2F%2Fwww.google.com%2F
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64772] -- -- --> [151.101.193.69:80] 
+GET http://stackoverflow.com/posts/10306690/ivc/8c85?_=1472516397174
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64791] -- -- --> [151.101.193.69:80] 
+POST http://stackoverflow.com/gps/event
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64788] -- -- --> [23.23.80.175:80] 
+GET http://engine.adzerk.net/ados?t=1472516397076&request={%22Placements%22:[{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk732544458%22,%22AT%22:4,%22Z%22:[43]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1878204487%22,%22AT%22:4,%22Z%22:[44]},{%22A%22:22,%22S%22:8277,%22D%22:%22adzerk1455567627%22,%22ATA%22:[5,17,2221],%22Z%22:[45]}],%22Keywords%22:%22regex%2Cvalidation%2Cdomain-name%22,%22Referrer%22:%22https%3A%2F%2Fwww.google.com%2F%22,%22IsAsync%22:true}
+HTTP/1.1 200 OK
+
+[10.6.25.184:64795] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/p.js?zones=1%3Dhireme&tags=regex%3Bvalidation%3Bdomain-name&host=stackoverflow.com&lw=1291&bw=1440&az=1
+HTTP/1.1 200 OK
+
+[10.6.25.184:64795] -- -- --> [198.252.206.17:80] 
+GET http://clc.stackoverflow.com/soi.gif?an=Y2NiWHjDPiH7wmUPBhBgZWT42cMMJBkZ2BmBfA6QIMu-dGaGrO-Gl34xv7VnBUsycgEJFpAKFnYgwc8GIoCqGIxqll8-9gZTFStIAci0U3HMDBbf61S5d8PNkkNVBTKL_SsTQ9zWm_vkY19hmqUAJPlBSpV0wE5jYIsCW87IEQA2nhXIBxnAyBrA8DSpwkEpas_TYi0A&at=0&pt=219
+HTTP/1.1 200 OK
+
+[10.6.25.184:64807] -- -- --> [216.58.195.238:80] 
+GET http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit
+HTTP/1.1 200 OK
+
+[10.6.25.184:64808] -- -- --> [216.58.192.2:80] 
+GET http://www.googletagservices.com/tag/js/gpt.js
+HTTP/1.1 304 Not Modified
+
+[10.6.25.184:64810] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=ad_events&srt=14&tbsrt=1472065235337&tran=0&request_length=1_792&slot_defined_id_in_request=1_1&request_refresh_type=1_1&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif&rt=start_ad_fetch_period.1.803
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64813] -- -- --> [216.58.194.174:80] 
+GET http://clients1.google.com/generate_204
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64810] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=global&it=pubads_load_period.2,rt_st.impl.625,rt_fs.impl.625,rt_dns.impl.0,rt_tcp.impl.0,rt_rtt.impl.8,rt_tft.impl.8,rt_duration.impl.17,rt_st.gpt.493,rt_fs.gpt.493,rt_dns.gpt.0,rt_tcp.gpt.10,rt_rtt.gpt.29,rt_tft.gpt.1,rt_duration.gpt.30&srt=14&tbsrt=1472065235337&tran=0&count_of_slots=4&count_of_requested_slots=1&count_of_rendered_slots=0&count_of_requests=1&count_of_refreshes_called=0&count_of_passback=0&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif,page_load&rt=impl_loaded_instant.722,loader_loaded_instant.1113,loader_loaded_instant_nw.1113,page_load_time.2163
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64810] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=global&srt=14&tbsrt=1472065235337&tran=0&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif,page_load&rt=page_load_time_nw.2164
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64814] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=ad_events&srt=14&tbsrt=1472065235337&tran=0&request_length=2_785&slot_defined_id_in_request=2_2&request_refresh_type=2_1&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif,page_load&rt=start_ad_fetch_period.2.2397
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64814] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=ad_events&srt=14&tbsrt=1472065235337&tran=0&request_length=3_813&slot_defined_id_in_request=3_3&request_refresh_type=3_1&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif,page_load&rt=start_ad_fetch_period.3.4050
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64814] -- -- --> [74.125.136.94:80] 
+GET http://csi.gstatic.com/csi?v=3&s=gpt&action=ad_events&srt=14&tbsrt=1472065235337&tran=0&request_length=4_808&slot_defined_id_in_request=4_4&request_refresh_type=4_1&vrg=94&pl_id=1472516426314_0.3450942418870322&e=v94,n16833175,publisher_ads,non-sra,108809080,108809115,fif,page_load&rt=start_ad_fetch_period.4.6336
+HTTP/1.1 204 No Content
+
+[10.6.25.184:64898] -- -- --> [216.58.194.208:80] 
+GET http://storage.googleapis.com/update-delta/ojjgnpkioondelmggbekfhllhdaimnho/135/134/cf110dca3fd88db1c06f82085140621e192430dd7673735ad8037be04588dab6.crxd
+HTTP/1.1 200 OK
+
+[10.6.25.184:65018] -- -- --> [216.58.194.174:80] 
+GET http://redirector.gvt1.com/crx/blobs/QgAAAC6zw0qH2DJtnXe8Z7rUJP3VMlY8CT0wBpgCp36ixEfhwXCWZ0RsfV6WgFbsDtOscqCLY6tBovK7PXrHPg0S-vIKcFHMS2Oa_esCcG_-Qzr3AMZSmuWpEjKEj2KSw9UPBbVxoJdwZ-HSMg/extension_5216_530_0_15.crx
+HTTP/1.1 302 Found
+
+[10.6.25.184:65021] -- -- --> [74.125.170.217:80] 
+GET http://r3---sn-n4v7sn7z.gvt1.com/crx/blobs/QgAAAC6zw0qH2DJtnXe8Z7rUJP3VMlY8CT0wBpgCp36ixEfhwXCWZ0RsfV6WgFbsDtOscqCLY6tBovK7PXrHPg0S-vIKcFHMS2Oa_esCcG_-Qzr3AMZSmuWpEjKEj2KSw9UPBbVxoJdwZ-HSMg/extension_5216_530_0_15.crx?cms_redirect=yes&expire=1472531154&ip=173.247.199.46&ipbits=0&mm=31&mn=sn-n4v7sn7z&ms=au&mt=1472516479&mv=m&nh=IgpwcjAxLnNqYzA3KgkxMjcuMC4wLjE&pl=20&sparams=expire,ip,ipbits,mm,mn,ms,mv,nh,pl&signature=2FE26771BB778438D186777CC4544127ABD53550.3FACECEA12698E2D4A960941BC51FBA27521B762&key=cms1
+HTTP/1.1 200 OK
+
+[10.6.25.184:65048] -- -- --> [52.216.32.138:80] 
+GET http://www.restapitutorial.com/lessons/httpmethods.html
+HTTP/1.1 200 OK
+
+[10.6.25.184:65052] -- -- --> [104.20.91.127:80] 
+GET http://i.creativecommons.org/l/by-sa/4.0/88x31.png
+HTTP/1.1 301 Moved Permanently
+
+[10.6.25.184:65048] -- -- --> [52.216.32.138:80] 
+GET http://www.restapitutorial.com/favicon.ico
+HTTP/1.1 403 Forbidden
+

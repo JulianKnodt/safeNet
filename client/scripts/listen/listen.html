@@ -1,0 +1,6 @@
+<div ng-app='listen'>
+  <div ng-controller='listenController'>
+  <a class="waves-effect waves-light btn" ui-sref='/home'>Home</a>
+  <p ng-repeat='packet in packets track by $index'>{{packet}}</p>
+  </div>
+</div>
