@@ -5,10 +5,9 @@ angular.module('listen', [])
     if(parseData[1] === undefined){
       return;
     }
-    parseData
-    var domain = parseData[1].slice(parseData[1].indexOf('http'), parseData[1].indexOf('.com'));
-    parseData[1] = 'Get Data from ' +  domain;
-    return parseData.join('\n');
+    var domain = parseData[1].slice(parseData[1].indexOf(' ') + 1);
+    parseData[1] = domain;
+    return {parsed: parseData.join('\n'), domain:domain};
   };
   var collectPackets = function(){
     $http({
@@ -16,9 +15,14 @@ angular.module('listen', [])
       method:'GET'
     }).success(function(data){
       $scope.packets = data.split('\n\n').map(function(packetInfo){
-        return {
-          packet: filterPacket(packetInfo), 
-          verified: 0};
+        var filtered = filterPacket(packetInfo);
+        if(filtered !== undefined){
+          return {
+            packet: filtered.parsed,
+            domain: filtered.domain, 
+            verified: 0
+          };
+        }
       });
     }).error(function(err){
       console.log(err);
@@ -31,6 +35,7 @@ angular.module('listen', [])
     });
   }
   $scope.mark = function(obj){
+    obj.verified = 2;
     $http({
       url:'/data',
       method: 'POST',
@@ -47,8 +52,10 @@ angular.module('listen', [])
       return 'green';
     } else if(verified === -1){
       return 'red';
+    } else if(verified === 2){
+      return 'blue';
     }
-    return 'blue';
+    return 'gray';
   }
 })
 .directive('link', function(){

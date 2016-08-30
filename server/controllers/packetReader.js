@@ -13,16 +13,18 @@ session.on('packet', function(raw){
 });
 
 tcpTracker.on('session', function(session){
-  console.log(session.src, '-->', session.dst);
+  // console.log(session.src, '-->', session.dst_name);
+  // console.log(session);
   session.on('end', function(session){
-    console.log('end of session from', session.src);
+    // console.log(session);
+    // console.log('end of session from', session.src);
   });
 });
 
-// tcpTracker.on('http request', function(session, http){
-
-//   console.log(http);
-// });
+tcpTracker.on('http request', function(session, http){
+  console.log(session);
+  console.log(http);
+});
 
 
 module.exports = session;

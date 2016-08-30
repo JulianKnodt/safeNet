@@ -14,4 +14,4 @@ var port = process.env.PORT || 6969;
 
 
 app.listen(port);
-console.log('theLocals is listening on port', port);
+console.log('safeNet is listening on port', port);
