@@ -1,23 +1,18 @@
 //worker to check if urls are valid
 var db = require('../db/db.js');
-var http = require('http');
-
-// var options = {
-//     host: 'closure-compiler.appspot.com',
-//     port: '80',
-//     path: '/compile',
-//     method: 'POST',
-//     headers: {
-//         'Content-Type': 'application/json',
-//     }
-// };
-
+var key = require('../config/config.js').key;
+var google = require('googleapis');
+var safebrowsing = google.safebrowsing('v4');
 
 module.exports = function(){
-  db.Link.find({verified: 2}).then(function(pending){
-
+  db.Link.find({verified:2})
+  .then(function(pending){
+    var search = pending.map(function(toRead){
+      return toRead.domain;
+    });
+    safebrowsing.threatMatches.find({auth: key}, {url:search[0]}, function(err, res){
+      console.log(err);
+      console.log(res);
+    });
   });
 }
-
-// POST https://safebrowsing.googleapis.com/v4/threatMatches:find?key=API_KEY HTTP/1.1
-// Content-Type: application/json
