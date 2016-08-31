@@ -35,11 +35,11 @@ angular.module('listen', [])
 
   $scope.color = function(verified){
     if(verified === 0){
-      return 'yellow';
+      return 'yellow darken-1';
     } else if(verified === 1){
       return 'green';
     } else if(verified === 3){
-      return 'red';
+      return 'red accent-4';
     } else if(verified === 2){
       return 'blue';
     }
