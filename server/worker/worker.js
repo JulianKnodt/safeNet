@@ -2,8 +2,8 @@
 var request = require("request-promise")
 var db = require('../db/db.js');
 var key = require('../config/config.js').key;
-var google = require('googleapis');
-var safebrowsing = google.safebrowsing('v4');
+// var google = require('googleapis');
+// var safebrowsing = google.safebrowsing('v4');
 var malver = require('malver');
 
 module.exports = function(){
