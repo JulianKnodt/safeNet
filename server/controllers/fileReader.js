@@ -57,7 +57,8 @@ module.exports = {
   },
   url: {
     post: function(req, res){
-      db.Link.find({domain:req.body.domain}).update({$set: {verified: 2}}).update().then(function(){
+      console.log(req.body._id);
+      db.Link.find({_id:req.body._id}).update({$set: {verified: 2}}).update().then(function(){
         res.send('');
       });
     }

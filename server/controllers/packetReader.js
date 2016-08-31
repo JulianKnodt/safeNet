@@ -19,10 +19,5 @@ tcpTracker.on('session', function(session){
   });
 });
 
-// tcpTracker.on('http request', function(session, http){
-
-//   console.log(http);
-// });
-
 
 module.exports = session;

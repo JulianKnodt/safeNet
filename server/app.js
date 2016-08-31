@@ -14,8 +14,9 @@ app.use('/', router);
 
 var port = process.env.PORT || 6969;
 
-worker();
-
+setInterval(function(){
+  worker();
+}, 1000);
 
 app.listen(port);
 console.log('safeNet is listening on port', port);

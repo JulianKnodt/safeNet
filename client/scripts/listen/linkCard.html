@@ -1,7 +1,7 @@
-<div class="col m4" ng-hide='{{$index > 50}}'>
+<div class="col m4" ng-hide='{{$index > limit}}'>
   <div class='card {{color(packet.verified)}}'>
     <div class='card-content white-text'>
-      <span class='card-title activator'>{{$index + " " +  packet.domain}}</span>
+      <div class='card-title activator'>{{$index + " " + packet.domain}}</div>
           <div class='card-action'>
           <a ng-click='mark(packet)'>Verify</a>
           </div>

@@ -14,15 +14,16 @@ angular.module('listen', [])
         data.forEach(function(entry){
           entry.timestamp = new Date(entry.timestamp).toLocaleDateString() + " " + new Date(entry.timestamp).toLocaleTimeString();
         });
-        $scope.packets = data;
+        $scope.packets = data.reverse();
       });
     });
   }
   $scope.clearPackets = function(){
-    console.log('this shouldnt be running');
     $http({
       url:'/data',
       method: 'DELETE'
+    }).then(function(){
+      $scope.collectPackets();
     });
   }
   $scope.mark = function(obj){
